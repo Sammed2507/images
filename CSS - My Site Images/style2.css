@@ -1,0 +1,68 @@
+.astro{
+  margin: 30px 50px;
+  border-radius: 50px;
+}
+body{
+  margin: 0;
+  color: #40541E;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color:#050A30;
+}
+h1{
+  font-size: 90px;
+  margin-top: 50px;
+  margin-bottom: 0;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  margin-top: 0;
+  font-size: 2.5rem;
+  font-weight: lighter;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.astro:hover{
+height:600px;
+box-shadow: 20px 20px black ;
+
+}
+
+.box{
+  height:700px;
+  width:auto;
+}
+
+.text1{
+  position: absolute;
+  left:570px;
+}
+
+.text2{
+  position: absolute;
+  right:570px;
+}
+
+.text3{
+  position: absolute;
+  left:540px;
+  top: 1350px;
+}
+.text4{
+  position: absolute;
+  right:480px;
+  top: 1350px;
+}
+
+.text5{
+  position: absolute;
+  right:720px;
+  top: 2050px;
+}
+
+.bold{
+  font-weight: bold;
+  color: #66BFBF;
+}
